@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/njongenathan" target="blank"><img src="https://img.shields.io/twitter/follow/njongenathan?logo=twitter&style=for-the-badge" alt="njongenathan" /></a> </p>
 
-- 🔭 I’m currently working on **Speech Emotion Recognition using Deep Neural Networks**
+- 🔭 I’m currently working on **Speech Emotion Recognition using Convolutional Neural Networks**
 
 - 🌱 I’m currently learning **React Native and Android Kotlin**
 
